@@ -1,0 +1,53 @@
+.cac-san-pham .slick-next::before {
+    content: "\f105";
+    font-size: 70px;
+    font-family: FontAwesome;
+    color: #707a7f;
+}
+
+
+.cac-san-pham  .slick-prev::before {
+    content: "\f104";
+    font-size: 70px;
+    font-family: FontAwesome;
+    color: #707a7f;
+}
+
+.binh-luan .slick-next::before {
+    content: "\f105";
+    font-size: 70px;
+    font-family: FontAwesome;
+    color: #707a7f;
+}
+
+
+.binh-luan .slick-prev::before {
+    content: "\f104";
+    font-size: 70px;
+    font-family: FontAwesome;
+    color: #707a7f;
+}
+
+.su-kien .slick-next::before {
+    content: "\f105";
+    font-size: 70px;
+    font-family: FontAwesome;
+    color: #707a7f;
+}
+
+.su-kien .slick-prev::before {
+    content: "\f104";
+    font-size: 70px;
+    font-family: FontAwesome;
+    color: #707a7f;
+}
+
+.slick-prev {
+    left: -40px;
+    top: 40%;
+}
+
+.slick-next {
+    right: -40px;
+    top: 40%;
+}
